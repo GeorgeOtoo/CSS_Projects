@@ -1,0 +1,26 @@
+.navbutton{
+    width: 200px;
+    height: 150px;
+}
+
+@media only screen and (max-width: 480px){
+    .navbutton{
+    background-color: yellow;
+    }
+}
+
+@media only screen and (min-width: 481px){
+    .navbutton{
+    background-color: blue;
+    }
+
+}
+
+@media only screen and (min-width: 1024px){
+    .navbutton{
+    background-color: red;
+    }
+    .wrapper{
+        display: flex;
+    }
+}

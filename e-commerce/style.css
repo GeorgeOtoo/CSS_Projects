@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.rowHeader{
+    min-width: 1000px;
+    height: 50px;
+    background-image: -moz-linear-gradient(to right, #357B8F, #9ACDDB);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

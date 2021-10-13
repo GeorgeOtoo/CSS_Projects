@@ -1,0 +1,40 @@
+
+.linkOption{
+    color: rgb(29, 74, 221);
+}
+
+.jumbo{
+    height: 300px;
+    background-color:aliceblue;
+    padding: 45px;
+}
+
+.wrap{
+    height: 370px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 20px 20px 20px 20px;
+}
+
+.smalle{
+    font-size: larger;
+}
+
+.spanner{
+    font-size:smaller;
+}
+
+.copyr{
+    margin-left: 20px;
+}
+
+.col1, .col2{
+    margin-right: 7px;
+}
+
+.el{
+    font-family:'Times New Roman', Times, serif;
+
+}

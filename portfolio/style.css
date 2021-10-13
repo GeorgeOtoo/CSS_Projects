@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+
+
+
+#wrapper{
+    background-color: white;
+    width: 100%;
+    margin: 15px 15px 15px 15px;
+    /* margin: 0 auto; */
+    padding: 15px 15px 15px 15px;
+}
+
+#everything{
+    width: 950px;
+    margin: 0 auto;
+    background-color: rgb(49, 29, 29);
+    /* padding-bottom: 15px; */
+}
+
+.header{
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(247, 245, 245); 
+}
+
+#First-body{
+    background-color: rgb(49, 29, 29);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px 15px 15px;
+}
+
+#me{
+    width: 400px;
+    height: 290px;
+    margin-right: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: beige;
+    vertical-align: bottom;
+}
+
+.title{
+    background-color: silver;
+    height: 25px;
+    padding: 5px 5px 5px 5px;
+}
+
+#content{
+    background-color: rgb(241, 238, 238);
+    padding: 8px 8px 8px 8px;
+    height: 248px;
+}
+
+#style{
+padding-top: 8px;
+}
+
+#continue{
+padding-top: 8px;
+}
+
+#second-body{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.col{
+    width: 300px;
+}
+
+.pic{
+    width: 300px;
+    height: 120px;
+    vertical-align: bottom;
+}
+
+.para{
+    /* background-color: rgb(224, 213, 224); */
+    padding: 6px 6px 6px 6px;
+    height: 174px;
+    background-color: rgb(224, 213, 224);
+}
+
+.bot img{
+    width: 35px;
+    height: 35px;
+    padding: 6px;
+}
+
+.bot{
+    background-color: rgb(224, 213, 224);
+    padding-bottom: 10px;
+}
+
+.title1{
+    background-color: silver;
+    height: 25px;
+    padding: 5px 5px 5px 5px;
+    vertical-align: top;
+}
+
+.button{
+    height: 20px;
+    padding: 5px 5px 5px 5px;
+    width: 120px; 
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    margin: 10px auto;
+    text-align: center; 
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.header2{
+    background-color: rgb(247, 245, 245);
+    padding: 5px 5px 5px 5px; 
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.info{
+margin-left: 30px;
+padding-bottom: 10px;
+padding-top: 10px;
+font-size: larger;
+}
+
+.social{
+    width: 15px;
+    height: 15px;
+    font-size: medium;
+}
+
+span a{
+    color: black;
+}
